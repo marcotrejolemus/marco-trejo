@@ -1,4 +1,4 @@
-# Portfolio ¡Hi, Welcome to this This project that will provide you a webpage showcase of HTML5,CSS,Javascript and Bootstrap!
+# Portfolio ¡Hi, Welcome to this project that will provide you a webpage showcase of HTML5,CSS,Javascript and Bootstrap!
 
 ## Tools
 
