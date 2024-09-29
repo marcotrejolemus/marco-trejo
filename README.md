@@ -1,2 +1,18 @@
-About
-A website using HTML5,CSS,JavaScript and Bootstrap a free and open-source CSS framework directed at responsive, mobile-first front-end web development
+# Portfolio ¡Hi, Welcome to this This project that will provide you a webpage showcase of HTML5,CSS,Javascript and Bootstrap!
+
+## Tools
+
+* HTML5
+
+* CSS
+
+* Javascript
+
+* Bootstrap 
+
+## By:
+
+### Marco Trejo
+
+### Linkedin: https://www.linkedin.com/in/marco-trejo-47131b3a/
+
